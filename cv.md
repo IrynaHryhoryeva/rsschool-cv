@@ -9,4 +9,9 @@
 ### My skills:
 1. Git, GitHub
 
-1. VS Code
+1. VS Code 
+### Work experience:
+Nothing yet
+### Languages: 
+Russian
+English A2
